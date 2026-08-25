@@ -5,7 +5,7 @@ import { IconExternal, IconGithub } from './Icons.jsx'
 
 // Vite handles these as URL imports so the built site works from any path.
 import imgCornerstone from '../assets/proj-cornerstone.jpg'
-import imgScheduler from '../assets/proj-scheduler.jpg'
+import tm from '../assets/tm.png'
 import imgPassword from '../assets/proj-password.jpg'
 import imgWeather from '../assets/proj-weather.jpg'
 import imgQuiz from '../assets/proj-quiz.jpg'
@@ -13,7 +13,7 @@ import imgCocktails from '../assets/proj-cocktails.jpg'
 
 const IMAGES = {
   'proj-cornerstone.jpg': imgCornerstone,
-  'proj-scheduler.jpg': imgScheduler,
+  'tm.png': tm,
   'proj-password.jpg': imgPassword,
   'proj-weather.jpg': imgWeather,
   'proj-quiz.jpg': imgQuiz,
