@@ -44,7 +44,7 @@ export default function About() {
             ))}
           </div>
 
-          <a href="/Dinesh_Thapa_CV.docx" className="btn btn-primary" download>
+          <a href="https://drive.google.com/file/d/1XDxtBcCNESkHtCUFWUNgBKuvTDTS7QTe/view?usp=drive_link" className="btn btn-primary" download>
             Download CV
             <IconDownload />
           </a>
