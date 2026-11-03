@@ -106,4 +106,3 @@ then import it and add it to the `IMAGES` map at the top of `src/components/Proj
 ├── vite.config.js
 └── package.json
 ```
-Live preview: https://ajinthapa2000.github.io/portfolio/
